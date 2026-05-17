@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "SMPOFMinecraftplayer.aternos.me:46523",
+    "port": 46523,
     "version": "1.21.1"
   },
   "position": {
